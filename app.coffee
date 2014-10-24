@@ -2,7 +2,7 @@ net = require 'net'
 fs = require 'fs'
 
 opts =
-  host: "172.19.3.121"
+  host: "localhost"
   port: 20880
 
 client = net.connect opts, ->
