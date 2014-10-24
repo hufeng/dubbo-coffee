@@ -1,0 +1,16 @@
+{
+  "name": "coffee-dubbo-service",
+  "version": "0.1.0",
+  "description": "使用nodejs通过tcp连接dubbo控制台，获取dubbo暴露的服务，生成文件，方便大量接口的本地调试。",
+  "main": "app.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coffee",
+    "dubbo",
+    "service"
+  ],
+  "author": "hufeng",
+  "license": "ISC"
+}
